@@ -12,11 +12,18 @@ Until I read the conclusion part where Danny explained SQL functions this challe
 Oh it makes me thrilled.. 😊  
 Next thing was I learned about those function then come back to this case study to solve this challenge.
 
+This post is divided into several section:  
+- [Introduction](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#introduction)
+- [Problem Statement](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#problem-statement)
+- [Example Datasets](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#example-datasets)
+- [Case Study Questions](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#case-study-questions)
+- [Summary](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#summary)
+
 If you're interested to try it, you can find it in [here](https://8weeksqlchallenge.com/case-study-1/)
 
 ![](https://github.com/chairunisarj/Project_StudyCase/blob/main/images/Dannys%20Diner%20image.png)
 
-### Introduction
+### Introduction  
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
