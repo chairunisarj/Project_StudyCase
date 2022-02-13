@@ -12,7 +12,7 @@ Until I read the conclusion part where Danny explained SQL functions this challe
 Oh it makes me thrilled.. 😊  
 Next thing was I learned about those function then come back to this case study to solve this challenge.
 
-This post is divided into several section:  
+This post is divided into several sections:  
 - [Introduction](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#introduction)
 - [Problem Statement](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#problem-statement)
 - [Example Datasets](https://github.com/chairunisarj/Project_StudyCase-DannysDiner#example-datasets)
