@@ -1,7 +1,7 @@
 # Project_StudyCase - Danny's Diner
 
 Thank you Danny Ma for creating the challenge.  
-It really helps me to brushed my skills. When I first read about this challenge, I trid to solve it immediately.  
+It really helps me to brushed my skills. When I first read about this challenge, I tried to solve it immediately.  
 Then I realized that I don't quite understand which SQL function to use.  
 Until I read the conclusion part where Danny explained SQL functions this challenge covered, which are:  
 * `Common Table Expressions`  
@@ -9,7 +9,7 @@ Until I read the conclusion part where Danny explained SQL functions this challe
 * `Windows Functions for Ranking`  
 * `Table Joins`  
 
-Oh it makes me thrilled.  
+Oh it makes me thrilled.. 😊  
 Next thing was I learned about those function then come back to this case study to solve this challenge.
 
 If you're interested to try it, you can find it in [here](https://8weeksqlchallenge.com/case-study-1/)
