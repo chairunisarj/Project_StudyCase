@@ -1,4 +1,4 @@
-# Project_StudyCase
+# Project_StudyCase - Danny's Diner
 
 Thank you Danny Ma for creating the challenge.  
 It really helps me to brushed my skills. When I first read about this challenge, I trid to solve it immediately.  
@@ -331,4 +331,16 @@ RANK () OVER (PARTITION BY customer_id, member ORDER BY order_date)
 END as rank
 FROM allranks
 ORDER BY customer_id;
-```
+```  
+
+## Summary
+
+From these data, we get several insights:  
+1. From January, 1 2021 until February 1, 2021 there are 12 visits with total sales $186 or average $15.5 per visit.  
+2. The most purchased item on the menu is ramen. Each customer has purchased it at least two times.  
+3. There's a customer who doesn't become a member.  
+
+A few things to consider:  
+1. Since the favorite menu is ramen. Danny can considers to create more various menu of ramen.  
+2. Promotion for member that will attract customer to convert.  
+3. Bundling menu, member discount and/or redeem points can be considered to increase sales amount per visit.  
